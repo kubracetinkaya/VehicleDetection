@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>6-1-500x297.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\6-1-500x297.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>297</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>59</ymin>
+			<xmax>404</xmax>
+			<ymax>225</ymax>
+		</bndbox>
+	</object>
+</annotation>
